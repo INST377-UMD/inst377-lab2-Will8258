@@ -1,0 +1,36 @@
+#page1{
+    background-color: rgb(100, 136, 95);
+}
+
+#page2{
+    background-color: rgb(141, 136, 192);
+}
+
+#submit{
+    color:red;
+    margin-left: 100px;
+}
+
+#submit:hover{
+    color: blue;
+}
+
+#textbox{
+    margin-left: 50px;
+    font-size: 60px;
+}
+
+#Thanks{
+    margin-top: 50px;
+    margin-bottom: 150px;
+    margin-left: 340px;
+    margin-right: 150px;
+}
+
+#img{
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    margin-left: 340px;
+    margin-right: 150px;
+}
